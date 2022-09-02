@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# WATCHLIST MOVIES
 
-In the project directory, you can run:
+> A website that allows you to search for a movie and add it to the watch list, and marked as watched.
 
-### `npm start`
+ Add page                                  
+:------------------------------------------:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![addmovie](https://user-images.githubusercontent.com/92208712/188102864-6b7a81aa-8e0c-4330-a23a-e016254657b4.PNG)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ Watched page
+:------------------------------------------:
 
-### `npm run build`
+![watched](https://user-images.githubusercontent.com/92208712/188102910-f76edb86-dd54-4902-b0d1-0de91cfde1cf.PNG)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ Watchlist page
+:------------------------------------------:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![watchlist](https://user-images.githubusercontent.com/92208712/188102948-8d3eac7f-64bb-4f58-bbb8-a2a85cd5b2bb.PNG)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Built With
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- HTML5, CSS3, and ES6
+- React
+- git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Live Demo
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+[Live Demo Link](https://tangerine-pony-b5536e.netlify.app/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Getting Started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To get a local copy up and running follow these simple example steps.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- go to the directory that you want to clone the repository in.
+- right click and choose Git Bash here.
+- type ```https://github.com/AACHOURMOHAMED/freegames.git```.
+- run "npm install" and then "npm start"
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+👤 **AshourMohamed**
 
-### Making a Progressive Web App
+- GitHub: [@githubhandle](https://github.com/AACHOURMOHAMED)
+- Twitter: [@twitterhandle](https://twitter.com/MohamedAachour3)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/mohamed-aachour-25405b215)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🤝 Contributing
 
-### Advanced Configuration
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Feel free to check the [issues page](../../issues/).
 
-### Deployment
+## Show your support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Give a ⭐️ if you like this project!
 
-### `npm run build` fails to minify
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- The design for this project was inspired by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio). The design can be found [here](https://www.behance.net/gallery/31579789/Ballhead-App-%28Free-PSDs%29).
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
